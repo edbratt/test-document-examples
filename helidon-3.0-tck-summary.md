@@ -22,6 +22,7 @@
 	[INFO] os.detected.release: debian
 - [x] By checking this box I acknowledge that the Organization I represent accepts the terms of the [EFTL](https://www.eclipse.org/legal/tck.php).
 - [x] By checking this box I attest that all TCK requirements have been met, including any compatibility rules.
+
 ---
 ## MicroProfile 5.0
 
